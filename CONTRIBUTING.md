@@ -37,4 +37,4 @@ uploading a pull request.
 
 When you are sending a pull request and it's a non-trivial change beyond fixing typos, please make sure to sign
 [the ICLA (individual contributor license agreement)](https://cla-assistant.io/line/line-bot-sdk-nodejs). Please
-[contact us](mailto:dl_oss_dev@linecorp.com) if you need the CCLA (corporate contributor license agreement).
+[contact us](mailto:dl_oss_dev@linecorp.com) if you need the CCLA (corporate contributor license agreement)..
