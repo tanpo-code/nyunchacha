@@ -1,5 +1,5 @@
 {
-  "name": "@line/bot-sdk-nyun",
+  "name": "@line/bot-sdk-nyuncha",
   "version": "6.8.1",
   "description": "Node.js SDK for LINE Messaging API",
   "engines": {
